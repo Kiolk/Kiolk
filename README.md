@@ -46,6 +46,6 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/itszed0/test-post-490g)
+- [My first post](https://dev.to/kiolk/my-first-post-2ola)
 <!-- BLOG-POST-LIST:END -->
 
