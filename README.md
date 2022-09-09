@@ -21,6 +21,18 @@
 
 ### :woman_technologist: About Me :
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" height="100" width="100"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotli" height="100" width="100"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" height="100" width="100"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Js" alt="Js" height="100" width="100"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" title="Groovy" alt="Groovy" height="100" width="100"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="AndroidStudio" alt="AndroidStudiohttps://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" height="100" width="100"/>
+</div>
+
 <!--
 **Kiolk/Kiolk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
