@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Developer diary #1](https://dev.to/kiolk/developer-diary-1-3e4c)
 - [Android Dev Summit 2022](https://dev.to/kiolk/android-dev-summit-2022-3h7o)
 - [My first post](https://dev.to/kiolk/my-first-post-2ola)
 <!-- BLOG-POST-LIST:END -->
