@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Developer diary #3. Injection in constructor](https://dev.to/kiolk/developer-diary-3-injection-in-constructor-16ph)
 - [Developer diary #2. Cross-platform pain](https://dev.to/kiolk/developer-diary-2-cross-platform-pain-49p6)
 - [Developer diary #1](https://dev.to/kiolk/developer-diary-1-3e4c)
 - [Android Dev Summit 2022](https://dev.to/kiolk/android-dev-summit-2022-3h7o)
