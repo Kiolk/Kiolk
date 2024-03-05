@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Developer diary #5. Technology is dying](https://dev.to/kiolk/developer-diary-5-technology-is-dying-23)
 - [Developer diary #4. Scripts everywhere](https://dev.to/kiolk/developer-diary-4-scripts-everywhere-497p)
 - [Developer diary #3. Injection in constructor](https://dev.to/kiolk/developer-diary-3-injection-in-constructor-16ph)
 - [Developer diary #2. Cross-platform pain](https://dev.to/kiolk/developer-diary-2-cross-platform-pain-49p6)
