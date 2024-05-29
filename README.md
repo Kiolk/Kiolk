@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Developer diary #11. Cheating with AI.](https://dev.to/kiolk/developer-diary-11-cheating-with-ai-2k0l)
 - [Developer diary #10. Lost contributions](https://dev.to/kiolk/developer-diary-10-lost-contributions-1095)
 - [Developer diary #9. Google I/O](https://dev.to/kiolk/developer-diary-9-google-io-2om7)
 - [Developer diary #8. The end of the era.](https://dev.to/kiolk/developer-diary-8-the-end-of-the-era-31dc)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Developer diary #2. Cross-platform pain](https://dev.to/kiolk/developer-diary-2-cross-platform-pain-49p6)
 - [Developer diary #1](https://dev.to/kiolk/developer-diary-1-3e4c)
 - [Android Dev Summit 2022](https://dev.to/kiolk/android-dev-summit-2022-3h7o)
-- [My first post](https://dev.to/kiolk/my-first-post-2ola)
 <!-- BLOG-POST-LIST:END -->
 
