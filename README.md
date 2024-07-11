@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Developer diary #13. Pomodoro life](https://dev.to/kiolk/developer-diary-13-pomodoro-life-38hc)
 - [Developer diary #12. Figma Dev Mode](https://dev.to/kiolk/developer-diary-12-figma-dev-mode-50a7)
 - [Developer diary #11. Cheating with AI.](https://dev.to/kiolk/developer-diary-11-cheating-with-ai-2k0l)
 - [Developer diary #10. Lost contributions](https://dev.to/kiolk/developer-diary-10-lost-contributions-1095)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Developer diary #4. Scripts everywhere](https://dev.to/kiolk/developer-diary-4-scripts-everywhere-497p)
 - [Developer diary #3. Injection in constructor](https://dev.to/kiolk/developer-diary-3-injection-in-constructor-16ph)
 - [Developer diary #2. Cross-platform pain](https://dev.to/kiolk/developer-diary-2-cross-platform-pain-49p6)
-- [Developer diary #1](https://dev.to/kiolk/developer-diary-1-3e4c)
 <!-- BLOG-POST-LIST:END -->
 
