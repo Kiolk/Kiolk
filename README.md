@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [If you lose your signing key](https://dev.to/kiolk/if-you-lose-your-signing-key-3l7a)
 - [How store signing keystore.](https://dev.to/kiolk/how-store-signing-keystore-4lan)
 - [Simple way to store secrets in Android Project.](https://dev.to/kiolk/simple-way-to-store-secrets-in-android-project-345k)
 - [Simple way convert object to json in Dart](https://dev.to/kiolk/simple-way-to-convert-object-json-in-dart-4ioh)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Developer diary #9. Google I/O](https://dev.to/kiolk/developer-diary-9-google-io-2om7)
 - [Developer diary #8. The end of the era.](https://dev.to/kiolk/developer-diary-8-the-end-of-the-era-31dc)
 - [Developer diary #7. Variety](https://dev.to/kiolk/developer-diary-7-cicd-282p)
-- [Developer diary #6. Who is main?](https://dev.to/kiolk/developer-diary-6-who-is-main-1fd9)
 <!-- BLOG-POST-LIST:END -->
 
