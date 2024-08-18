@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Where my google developer account?](https://dev.to/kiolk/where-my-google-developer-account-4ee3)
 - [Presentation pain](https://dev.to/kiolk/presentation-pain-3ab9)
 - [Mirroring devices with Android Studio](https://dev.to/kiolk/mirroring-devices-with-android-studio-14c2)
 - [If you lose your signing key](https://dev.to/kiolk/if-you-lose-your-signing-key-3l7a)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Developer diary #12. Figma Dev Mode](https://dev.to/kiolk/developer-diary-12-figma-dev-mode-50a7)
 - [Developer diary #11. Cheating with AI.](https://dev.to/kiolk/developer-diary-11-cheating-with-ai-2k0l)
 - [Developer diary #10. Lost contributions](https://dev.to/kiolk/developer-diary-10-lost-contributions-1095)
-- [Developer diary #9. Google I/O](https://dev.to/kiolk/developer-diary-9-google-io-2om7)
 <!-- BLOG-POST-LIST:END -->
 
