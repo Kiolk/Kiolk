@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [How to make Detekt more efficient](https://dev.to/kiolk/how-to-make-detekt-more-efficient-5fl4)
 - [My google developer account was closed](https://dev.to/kiolk/my-google-developer-account-was-closed-3bej)
 - [Where my google developer account?](https://dev.to/kiolk/where-my-google-developer-account-4ee3)
 - [Presentation pain](https://dev.to/kiolk/presentation-pain-3ab9)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Developer diary #15. ChatGPT and Taro](https://dev.to/kiolk/developer-diary-15-chatgpt-and-taro-4l36)
 - [Developer diary #13. Pomodoro life](https://dev.to/kiolk/developer-diary-13-pomodoro-life-38hc)
 - [Developer diary #12. Figma Dev Mode](https://dev.to/kiolk/developer-diary-12-figma-dev-mode-50a7)
-- [Developer diary #11. Cheating with AI.](https://dev.to/kiolk/developer-diary-11-cheating-with-ai-2k0l)
 <!-- BLOG-POST-LIST:END -->
 
