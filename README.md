@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Composition in GitHub Actions](https://dev.to/kiolk/composition-in-github-actions-ehh)
 - [How to make Detekt more efficient](https://dev.to/kiolk/how-to-make-detekt-more-efficient-5fl4)
 - [My google developer account was closed](https://dev.to/kiolk/my-google-developer-account-was-closed-3bej)
 - [Where my google developer account?](https://dev.to/kiolk/where-my-google-developer-account-4ee3)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Simple way convert object to json in Dart](https://dev.to/kiolk/simple-way-to-convert-object-json-in-dart-4ioh)
 - [Developer diary #15. ChatGPT and Taro](https://dev.to/kiolk/developer-diary-15-chatgpt-and-taro-4l36)
 - [Developer diary #13. Pomodoro life](https://dev.to/kiolk/developer-diary-13-pomodoro-life-38hc)
-- [Developer diary #12. Figma Dev Mode](https://dev.to/kiolk/developer-diary-12-figma-dev-mode-50a7)
 <!-- BLOG-POST-LIST:END -->
 
