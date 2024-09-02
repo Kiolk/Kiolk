@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Developer diary #18. Programming and sport](https://dev.to/kiolk/developer-diary-18-programming-and-sport-1l0j)
 - [Developer diary #17. How does it work?](https://dev.to/kiolk/developer-diary-17-how-does-it-work-3mlk)
 - [How to manage multiple ssh keys](https://dev.to/kiolk/how-to-manage-multiple-ssh-keys-2o6g)
 - [Developer diary #16. Don&#39;t miss opportunities](https://dev.to/kiolk/developer-diary-16-dont-miss-opportunities-1eg5)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Mirroring devices with Android Studio](https://dev.to/kiolk/mirroring-devices-with-android-studio-14c2)
 - [If you lose your signing key](https://dev.to/kiolk/if-you-lose-your-signing-key-3l7a)
 - [How store signing keystore.](https://dev.to/kiolk/how-store-signing-keystore-4lan)
-- [Simple way to store secrets in Android Project.](https://dev.to/kiolk/simple-way-to-store-secrets-in-android-project-345k)
 <!-- BLOG-POST-LIST:END -->
 
