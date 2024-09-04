@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Developer diary #19. When open-source product is closing.](https://dev.to/kiolk/developer-diary-19-when-open-source-product-is-closing-3pjb)
 - [Developer diary #18. Programming and sport](https://dev.to/kiolk/developer-diary-18-programming-and-sport-1l0j)
 - [Developer diary #17. How does it work?](https://dev.to/kiolk/developer-diary-17-how-does-it-work-3mlk)
 - [How to manage multiple ssh keys](https://dev.to/kiolk/how-to-manage-multiple-ssh-keys-2o6g)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Presentation pain](https://dev.to/kiolk/presentation-pain-3ab9)
 - [Mirroring devices with Android Studio](https://dev.to/kiolk/mirroring-devices-with-android-studio-14c2)
 - [If you lose your signing key](https://dev.to/kiolk/if-you-lose-your-signing-key-3l7a)
-- [How store signing keystore.](https://dev.to/kiolk/how-store-signing-keystore-4lan)
 <!-- BLOG-POST-LIST:END -->
 
