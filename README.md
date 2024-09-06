@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Developer diary #20. My favorite podcasts.](https://dev.to/kiolk/developer-diary-20-my-favorite-podcasts-4heh)
 - [Developer diary #19. When open-source product is closing.](https://dev.to/kiolk/developer-diary-19-when-open-source-product-is-closing-3pjb)
 - [Developer diary #18. Programming and sport](https://dev.to/kiolk/developer-diary-18-programming-and-sport-1l0j)
 - [Developer diary #17. How does it work?](https://dev.to/kiolk/developer-diary-17-how-does-it-work-3mlk)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Where my google developer account?](https://dev.to/kiolk/where-my-google-developer-account-4ee3)
 - [Presentation pain](https://dev.to/kiolk/presentation-pain-3ab9)
 - [Mirroring devices with Android Studio](https://dev.to/kiolk/mirroring-devices-with-android-studio-14c2)
-- [If you lose your signing key](https://dev.to/kiolk/if-you-lose-your-signing-key-3l7a)
 <!-- BLOG-POST-LIST:END -->
 
