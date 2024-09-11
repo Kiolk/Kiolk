@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Day 2. Networking layer.](https://dev.to/kiolk/day-2-networking-layer-2869)
 - [Day 1. Deep breath and dive.](https://dev.to/kiolk/day-1-deep-breath-and-dive-5cgk)
 - [Developer diary #22. 100 Days of code](https://dev.to/kiolk/developer-diary-22-100-days-of-code-1geg)
 - [Developer diary #21. Who wrote that?](https://dev.to/kiolk/developer-diary-21-who-wrote-that-438i)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Developer diary #16. Don&#39;t miss opportunities](https://dev.to/kiolk/developer-diary-16-dont-miss-opportunities-1eg5)
 - [Composition in GitHub Actions](https://dev.to/kiolk/composition-in-github-actions-ehh)
 - [How to make Detekt more efficient](https://dev.to/kiolk/how-to-make-detekt-more-efficient-5fl4)
-- [My google developer account was closed](https://dev.to/kiolk/my-google-developer-account-was-closed-3bej)
 <!-- BLOG-POST-LIST:END -->
 
