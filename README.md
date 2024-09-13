@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Day 4. ArticleItem](https://dev.to/kiolk/day-4-articleitem-92m)
 - [Day 3. Loading of articles](https://dev.to/kiolk/day-3-loading-of-articles-mk3)
 - [Day 2. Networking layer.](https://dev.to/kiolk/day-2-networking-layer-2869)
 - [Day 1. Deep breath and dive.](https://dev.to/kiolk/day-1-deep-breath-and-dive-5cgk)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Developer diary #17. How does it work?](https://dev.to/kiolk/developer-diary-17-how-does-it-work-3mlk)
 - [How to manage multiple ssh keys](https://dev.to/kiolk/how-to-manage-multiple-ssh-keys-2o6g)
 - [Developer diary #16. Don&#39;t miss opportunities](https://dev.to/kiolk/developer-diary-16-dont-miss-opportunities-1eg5)
-- [Composition in GitHub Actions](https://dev.to/kiolk/composition-in-github-actions-ehh)
 <!-- BLOG-POST-LIST:END -->
 
