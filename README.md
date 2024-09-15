@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Day 6. Work on Sunday](https://dev.to/kiolk/day-6-work-on-sunday-4eaf)
 - [Day 5. Localization](https://dev.to/kiolk/day-5-localization-145l)
 - [Day 4. ArticleItem](https://dev.to/kiolk/day-4-articleitem-92m)
 - [Day 3. Loading of articles](https://dev.to/kiolk/day-3-loading-of-articles-mk3)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Developer diary #19. When open-source product is closing.](https://dev.to/kiolk/developer-diary-19-when-open-source-product-is-closing-3pjb)
 - [Developer diary #18. Programming and sport](https://dev.to/kiolk/developer-diary-18-programming-and-sport-1l0j)
 - [Developer diary #17. How does it work?](https://dev.to/kiolk/developer-diary-17-how-does-it-work-3mlk)
-- [How to manage multiple ssh keys](https://dev.to/kiolk/how-to-manage-multiple-ssh-keys-2o6g)
 <!-- BLOG-POST-LIST:END -->
 
