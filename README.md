@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Day 8. Enjoying coding](https://dev.to/kiolk/day-8-enjoying-coding-3mp5)
 - [Day 7. First week](https://dev.to/kiolk/day-7-first-week-4a2p)
 - [Day 6. Work on Sunday](https://dev.to/kiolk/day-6-work-on-sunday-4eaf)
 - [Day 5. Localization](https://dev.to/kiolk/day-5-localization-145l)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Developer diary #21. Who wrote that?](https://dev.to/kiolk/developer-diary-21-who-wrote-that-438i)
 - [Developer diary #20. My favorite podcasts.](https://dev.to/kiolk/developer-diary-20-my-favorite-podcasts-4heh)
 - [Developer diary #19. When open-source product is closing.](https://dev.to/kiolk/developer-diary-19-when-open-source-product-is-closing-3pjb)
-- [Developer diary #18. Programming and sport](https://dev.to/kiolk/developer-diary-18-programming-and-sport-1l0j)
 <!-- BLOG-POST-LIST:END -->
 
