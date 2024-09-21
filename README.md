@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Day 12. Frustration](https://dev.to/kiolk/day-12-frustration-137e)
 - [Day 11. Friday evening](https://dev.to/kiolk/day-11-friday-evening-2a67)
 - [Day 10. TODOs](https://dev.to/kiolk/day-10-todos-5em8)
 - [Day 9. Expect/actual](https://dev.to/kiolk/day-9-expectactual-2agp)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Day 3. Loading of articles](https://dev.to/kiolk/day-3-loading-of-articles-mk3)
 - [Day 2. Networking layer.](https://dev.to/kiolk/day-2-networking-layer-2869)
 - [Day 1. Deep breath and dive.](https://dev.to/kiolk/day-1-deep-breath-and-dive-5cgk)
-- [Developer diary #22. 100 Days of code](https://dev.to/kiolk/developer-diary-22-100-days-of-code-1geg)
 <!-- BLOG-POST-LIST:END -->
 
