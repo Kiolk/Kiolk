@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Day 14. Monday](https://dev.to/kiolk/day-14-monday-3o64)
 - [Day 13. Blocker](https://dev.to/kiolk/day-13-blocker-4ebp)
 - [Day 12. Frustration](https://dev.to/kiolk/day-12-frustration-137e)
 - [Day 11. Friday evening](https://dev.to/kiolk/day-11-friday-evening-2a67)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Day 5. Localization](https://dev.to/kiolk/day-5-localization-145l)
 - [Day 4. ArticleItem](https://dev.to/kiolk/day-4-articleitem-92m)
 - [Day 3. Loading of articles](https://dev.to/kiolk/day-3-loading-of-articles-mk3)
-- [Day 2. Networking layer.](https://dev.to/kiolk/day-2-networking-layer-2869)
 <!-- BLOG-POST-LIST:END -->
 
