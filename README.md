@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Day 19. 1 percent](https://dev.to/kiolk/day-19-1-percent-5ek9)
 - [Day 18. Comment](https://dev.to/kiolk/day-18-comment-44c0)
 - [Day 17. stringWithFormat](https://dev.to/kiolk/day-17-stringwithformat-3kb1)
 - [Day 16. Feed](https://dev.to/kiolk/day-16-feed-5f9k)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Day 10. TODOs](https://dev.to/kiolk/day-10-todos-5em8)
 - [Day 9. Expect/actual](https://dev.to/kiolk/day-9-expectactual-2agp)
 - [Day 8. Enjoying coding](https://dev.to/kiolk/day-8-enjoying-coding-3mp5)
-- [Day 7. First week](https://dev.to/kiolk/day-7-first-week-4a2p)
 <!-- BLOG-POST-LIST:END -->
 
