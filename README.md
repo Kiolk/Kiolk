@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Day 23. Sorting of articles](https://dev.to/kiolk/day-23-sorting-of-articles-3g0p)
 - [Day 22. Lottie animation](https://dev.to/kiolk/day-22-lottie-animation-57b4)
 - [Day 21. Pagination](https://dev.to/kiolk/day-21-pagination-ohj)
 - [Day 20. A bit of progress](https://dev.to/kiolk/day-20-a-bit-of-progress-1ga9)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Day 14. Monday](https://dev.to/kiolk/day-14-monday-3o64)
 - [Day 13. Blocker](https://dev.to/kiolk/day-13-blocker-4ebp)
 - [Day 12. Frustration](https://dev.to/kiolk/day-12-frustration-137e)
-- [Day 11. Friday evening](https://dev.to/kiolk/day-11-friday-evening-2a67)
 <!-- BLOG-POST-LIST:END -->
 
