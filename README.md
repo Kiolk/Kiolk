@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Day 30. Old code](https://dev.to/kiolk/day-30-old-code-1k2b)
 - [Day 29. Hard work](https://dev.to/kiolk/day-30-hard-work-2740)
 - [Day 28. Opportunity for growth](https://dev.to/kiolk/day-28-opportunity-for-growth-3g17)
 - [Day 27. Burnout](https://dev.to/kiolk/day-27-burnout-3i5d)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Day 21. Pagination](https://dev.to/kiolk/day-21-pagination-ohj)
 - [Day 20. A bit of progress](https://dev.to/kiolk/day-20-a-bit-of-progress-1ga9)
 - [Day 19. 1 percent](https://dev.to/kiolk/day-19-1-percent-5ek9)
-- [Day 18. Comment](https://dev.to/kiolk/day-18-comment-44c0)
 <!-- BLOG-POST-LIST:END -->
 
