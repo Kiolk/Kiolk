@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Day 31. Technical debt](https://dev.to/kiolk/day-31-technical-debt-e9n)
 - [Day 30. Old code](https://dev.to/kiolk/day-30-old-code-1k2b)
 - [Day 29. Hard work](https://dev.to/kiolk/day-30-hard-work-2740)
 - [Day 28. Opportunity for growth](https://dev.to/kiolk/day-28-opportunity-for-growth-3g17)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Day 22. Lottie animation](https://dev.to/kiolk/day-22-lottie-animation-57b4)
 - [Day 21. Pagination](https://dev.to/kiolk/day-21-pagination-ohj)
 - [Day 20. A bit of progress](https://dev.to/kiolk/day-20-a-bit-of-progress-1ga9)
-- [Day 19. 1 percent](https://dev.to/kiolk/day-19-1-percent-5ek9)
 <!-- BLOG-POST-LIST:END -->
 
