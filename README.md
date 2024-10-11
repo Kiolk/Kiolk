@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Day 32. API calls](https://dev.to/kiolk/day-32-api-calls-36m3)
 - [Day 31. Technical debt](https://dev.to/kiolk/day-31-technical-debt-e9n)
 - [Day 30. Old code](https://dev.to/kiolk/day-30-old-code-1k2b)
 - [Day 29. Hard work](https://dev.to/kiolk/day-30-hard-work-2740)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Day 23. Sorting of articles](https://dev.to/kiolk/day-23-sorting-of-articles-3g0p)
 - [Day 22. Lottie animation](https://dev.to/kiolk/day-22-lottie-animation-57b4)
 - [Day 21. Pagination](https://dev.to/kiolk/day-21-pagination-ohj)
-- [Day 20. A bit of progress](https://dev.to/kiolk/day-20-a-bit-of-progress-1ga9)
 <!-- BLOG-POST-LIST:END -->
 
