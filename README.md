@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Day 35. Coderabbit](https://dev.to/kiolk/day-35-coderabbit-4c8l)
 - [Day 34. Response](https://dev.to/kiolk/day-34-response-1bc5)
 - [Day 33. Generic response](https://dev.to/kiolk/day-33-generic-response-2d2h)
 - [Day 32. API calls](https://dev.to/kiolk/day-32-api-calls-36m3)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Day 26. After party](https://dev.to/kiolk/day-26-after-party-5373)
 - [Day 25. Broken endpoint?](https://dev.to/kiolk/day-25-broken-endpoint-4eo7)
 - [Day 24. Step by step](https://dev.to/kiolk/day-24-step-by-step-4jjj)
-- [Day 23. Sorting of articles](https://dev.to/kiolk/day-23-sorting-of-articles-3g0p)
 <!-- BLOG-POST-LIST:END -->
 
