@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Day 36. What is the power of Pull Request?](https://dev.to/kiolk/day-36-what-is-the-power-of-pull-request-3edc)
 - [Day 35. Coderabbit](https://dev.to/kiolk/day-35-coderabbit-4c8l)
 - [Day 34. Response](https://dev.to/kiolk/day-34-response-1bc5)
 - [Day 33. Generic response](https://dev.to/kiolk/day-33-generic-response-2d2h)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Day 27. Burnout](https://dev.to/kiolk/day-27-burnout-3i5d)
 - [Day 26. After party](https://dev.to/kiolk/day-26-after-party-5373)
 - [Day 25. Broken endpoint?](https://dev.to/kiolk/day-25-broken-endpoint-4eo7)
-- [Day 24. Step by step](https://dev.to/kiolk/day-24-step-by-step-4jjj)
 <!-- BLOG-POST-LIST:END -->
 
