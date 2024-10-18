@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Day 39. A party](https://dev.to/kiolk/day-39-a-party-1dm)
 - [Day 38. Search items](https://dev.to/kiolk/day-38-search-items-4jp)
 - [Day 37. Search challenge](https://dev.to/kiolk/day-37-search-challenge-1in9)
 - [Day 36. What is the power of Pull Request?](https://dev.to/kiolk/day-36-what-is-the-power-of-pull-request-3edc)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Day 30. Old code](https://dev.to/kiolk/day-30-old-code-1k2b)
 - [Day 29. Hard work](https://dev.to/kiolk/day-30-hard-work-2740)
 - [Day 28. Opportunity for growth](https://dev.to/kiolk/day-28-opportunity-for-growth-3g17)
-- [Day 27. Burnout](https://dev.to/kiolk/day-27-burnout-3i5d)
 <!-- BLOG-POST-LIST:END -->
 
