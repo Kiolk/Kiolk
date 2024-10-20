@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Day 41. Surpassed record](https://dev.to/kiolk/day-41-surpassed-record-28mb)
 - [Day 40. Fixing UI](https://dev.to/kiolk/day-40-fixing-ui-4pl5)
 - [String Parsing with Kotlinx Serialization](https://dev.to/kiolk/string-parsing-with-kotlinx-serialization-28cf)
 - [Day 39. A party](https://dev.to/kiolk/day-39-a-party-1dm)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Day 33. Generic response](https://dev.to/kiolk/day-33-generic-response-2d2h)
 - [Day 32. API calls](https://dev.to/kiolk/day-32-api-calls-36m3)
 - [Day 31. Technical debt](https://dev.to/kiolk/day-31-technical-debt-e9n)
-- [Day 30. Old code](https://dev.to/kiolk/day-30-old-code-1k2b)
 <!-- BLOG-POST-LIST:END -->
 
