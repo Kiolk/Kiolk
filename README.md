@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Day 44. Timestamp](https://dev.to/kiolk/day-44-timestamp-3ipb)
 - [Day 43. Composition](https://dev.to/kiolk/day-43-composition-eb6)
 - [Day 42. Monday](https://dev.to/kiolk/day-42-monday-kl0)
 - [Day 41. Surpassed record](https://dev.to/kiolk/day-41-surpassed-record-28mb)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Day 36. What is the power of Pull Request?](https://dev.to/kiolk/day-36-what-is-the-power-of-pull-request-3edc)
 - [Day 35. Coderabbit](https://dev.to/kiolk/day-35-coderabbit-4c8l)
 - [Day 34. Response](https://dev.to/kiolk/day-34-response-1bc5)
-- [Day 33. Generic response](https://dev.to/kiolk/day-33-generic-response-2d2h)
 <!-- BLOG-POST-LIST:END -->
 
