@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Days 47-48. Broken API](https://dev.to/kiolk/days-47-48-broken-api-14pk)
 - [Day 46. Broken pipelines](https://dev.to/kiolk/day-46-broken-pipelines-2bcn)
 - [Day 45. Time manipulation](https://dev.to/kiolk/day-45-time-manipulation-52g8)
 - [Day 44. Timestamp](https://dev.to/kiolk/day-44-timestamp-3ipb)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Day 39. A party](https://dev.to/kiolk/day-39-a-party-1dm)
 - [Day 38. Search items](https://dev.to/kiolk/day-38-search-items-4jp)
 - [Day 37. Search challenge](https://dev.to/kiolk/day-37-search-challenge-1in9)
-- [Day 36. What is the power of Pull Request?](https://dev.to/kiolk/day-36-what-is-the-power-of-pull-request-3edc)
 <!-- BLOG-POST-LIST:END -->
 
