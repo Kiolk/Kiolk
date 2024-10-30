@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Day 51. Article Screen](https://dev.to/kiolk/day-51-article-screen-4j33)
 - [Day 50. GitHub Universe](https://dev.to/kiolk/day-50-github-universe-3f3n)
 - [Day 49. Organization card](https://dev.to/kiolk/day-49-organization-card-h1n)
 - [Days 47-48. Broken API](https://dev.to/kiolk/days-47-48-broken-api-14pk)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Day 41. Surpassed record](https://dev.to/kiolk/day-41-surpassed-record-28mb)
 - [Day 40. Fixing UI](https://dev.to/kiolk/day-40-fixing-ui-4pl5)
 - [String Parsing with Kotlinx Serialization](https://dev.to/kiolk/string-parsing-with-kotlinx-serialization-28cf)
-- [Day 39. A party](https://dev.to/kiolk/day-39-a-party-1dm)
 <!-- BLOG-POST-LIST:END -->
 
