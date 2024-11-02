@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Day 54. Voyager issue](https://dev.to/kiolk/day-54-voyager-issue-n2o)
 - [Day 53. Plan](https://dev.to/kiolk/day-53-plan-3l4c)
 - [Day 52. Collapsing Toolbar](https://dev.to/kiolk/day-52-collapsing-toolbar-1ci6)
 - [Day 51. Article Screen](https://dev.to/kiolk/day-51-article-screen-4j33)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Day 44. Timestamp](https://dev.to/kiolk/day-44-timestamp-3ipb)
 - [Day 43. Composition](https://dev.to/kiolk/day-43-composition-eb6)
 - [Day 42. Monday](https://dev.to/kiolk/day-42-monday-kl0)
-- [Day 41. Surpassed record](https://dev.to/kiolk/day-41-surpassed-record-28mb)
 <!-- BLOG-POST-LIST:END -->
 
