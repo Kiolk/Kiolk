@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Day 58. Comments screen](https://dev.to/kiolk/day-58-comments-screen-4fa)
 - [Day 57. Replies](https://dev.to/kiolk/day-57-replies-4jd5)
 - [Day 56. Collapsing logic](https://dev.to/kiolk/day-56-collapsing-logic-1mjl)
 - [Day 55. Copilot](https://dev.to/kiolk/day-55-copilot-o02)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Day 49. Organization card](https://dev.to/kiolk/day-49-organization-card-h1n)
 - [Days 47-48. Broken API](https://dev.to/kiolk/days-47-48-broken-api-14pk)
 - [Day 46. Broken pipelines](https://dev.to/kiolk/day-46-broken-pipelines-2bcn)
-- [Day 45. Time manipulation](https://dev.to/kiolk/day-45-time-manipulation-52g8)
 <!-- BLOG-POST-LIST:END -->
 
