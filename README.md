@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Day 60. Markdown](https://dev.to/kiolk/day-60-markdown-h74)
 - [Day 59. Comments](https://dev.to/kiolk/day-59-comments-5f43)
 - [Day 58. Comments screen](https://dev.to/kiolk/day-58-comments-screen-4fa)
 - [Day 57. Replies](https://dev.to/kiolk/day-57-replies-4jd5)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Day 51. Article Screen](https://dev.to/kiolk/day-51-article-screen-4j33)
 - [Day 50. GitHub Universe](https://dev.to/kiolk/day-50-github-universe-3f3n)
 - [Day 49. Organization card](https://dev.to/kiolk/day-49-organization-card-h1n)
-- [Days 47-48. Broken API](https://dev.to/kiolk/days-47-48-broken-api-14pk)
 <!-- BLOG-POST-LIST:END -->
 
