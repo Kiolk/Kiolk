@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Day 68-70. Theme switcher](https://dev.to/kiolk/day-68-70-theme-switcher-265k)
 - [Day 67. Follow as in the System](https://dev.to/kiolk/day-67-follow-as-in-the-system-35il)
 - [Day 66. Theme switcher](https://dev.to/kiolk/day-66-theme-switcher-4088)
 - [Days 61-65. Dark theme](https://dev.to/kiolk/days-61-65-dark-5e01)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Day 55. Copilot](https://dev.to/kiolk/day-55-copilot-o02)
 - [Day 54. Voyager issue](https://dev.to/kiolk/day-54-voyager-issue-n2o)
 - [Day 53. Plan](https://dev.to/kiolk/day-53-plan-3l4c)
-- [Day 52. Collapsing Toolbar](https://dev.to/kiolk/day-52-collapsing-toolbar-1ci6)
 <!-- BLOG-POST-LIST:END -->
 
