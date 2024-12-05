@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Day 74. The end](https://dev.to/kiolk/day-74-the-end-2ge1)
 - [Day 73. Working on the Library](https://dev.to/kiolk/day-73-working-on-the-library-3jea)
 - [Day 71-72. Lack of knowledge](https://dev.to/kiolk/day-71-72-lack-of-knowledge-22f)
 - [Day 68-70. Theme switcher](https://dev.to/kiolk/day-68-70-theme-switcher-265k)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Day 58. Comments screen](https://dev.to/kiolk/day-58-comments-screen-4fa)
 - [Day 57. Replies](https://dev.to/kiolk/day-57-replies-4jd5)
 - [Day 56. Collapsing logic](https://dev.to/kiolk/day-56-collapsing-logic-1mjl)
-- [Day 55. Copilot](https://dev.to/kiolk/day-55-copilot-o02)
 <!-- BLOG-POST-LIST:END -->
 
