@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [SwiftUI Previews don&#39;t Work for Kotlin Multiplatform Mobile &lpar;KMM&rpar; Projects.](https://dev.to/kiolk/swiftui-previews-dont-work-for-kotlin-multiplatform-mobile-kmm-projects-3o1)
 - [Day 74. The end](https://dev.to/kiolk/day-74-the-end-2ge1)
 - [Day 73. Working on the Library](https://dev.to/kiolk/day-73-working-on-the-library-3jea)
 - [Day 71-72. Lack of knowledge](https://dev.to/kiolk/day-71-72-lack-of-knowledge-22f)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Day 59. Comments](https://dev.to/kiolk/day-59-comments-5f43)
 - [Day 58. Comments screen](https://dev.to/kiolk/day-58-comments-screen-4fa)
 - [Day 57. Replies](https://dev.to/kiolk/day-57-replies-4jd5)
-- [Day 56. Collapsing logic](https://dev.to/kiolk/day-56-collapsing-logic-1mjl)
 <!-- BLOG-POST-LIST:END -->
 
