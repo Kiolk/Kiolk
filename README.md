@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [My conference year](https://dev.to/kiolk/my-conference-year-onk)
 - [Tests with time](https://dev.to/kiolk/tests-with-time-41np)
 - [How to Handle the &quot;More&quot; Feature on Android?](https://dev.to/kiolk/how-to-handle-the-more-feature-on-android-2o6k)
 - [SwiftUI Previews don&#39;t Work for Kotlin Multiplatform Mobile &lpar;KMM&rpar; Projects.](https://dev.to/kiolk/swiftui-previews-dont-work-for-kotlin-multiplatform-mobile-kmm-projects-3o1)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Day 66. Theme switcher](https://dev.to/kiolk/day-66-theme-switcher-4088)
 - [Days 61-65. Dark theme](https://dev.to/kiolk/days-61-65-dark-5e01)
 - [Day 60. Markdown](https://dev.to/kiolk/day-60-markdown-h74)
-- [Day 59. Comments](https://dev.to/kiolk/day-59-comments-5f43)
 <!-- BLOG-POST-LIST:END -->
 
