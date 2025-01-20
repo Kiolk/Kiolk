@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Developer diary #23. Chip War](https://dev.to/kiolk/developer-diary-23-chip-war-49lk)
 - [My conference year](https://dev.to/kiolk/my-conference-year-onk)
 - [Tests with time](https://dev.to/kiolk/tests-with-time-41np)
 - [How to Handle the &quot;More&quot; Feature on Android?](https://dev.to/kiolk/how-to-handle-the-more-feature-on-android-2o6k)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Day 67. Follow as in the System](https://dev.to/kiolk/day-67-follow-as-in-the-system-35il)
 - [Day 66. Theme switcher](https://dev.to/kiolk/day-66-theme-switcher-4088)
 - [Days 61-65. Dark theme](https://dev.to/kiolk/days-61-65-dark-5e01)
-- [Day 60. Markdown](https://dev.to/kiolk/day-60-markdown-h74)
 <!-- BLOG-POST-LIST:END -->
 
