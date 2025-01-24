@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Developer diary #24. Refactoring](https://dev.to/kiolk/developer-diary-24-refactoring-2d60)
 - [Developer diary #23. Chip War](https://dev.to/kiolk/developer-diary-23-chip-war-49lk)
 - [My conference year](https://dev.to/kiolk/my-conference-year-onk)
 - [Tests with time](https://dev.to/kiolk/tests-with-time-41np)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Day 68-70. Theme switcher](https://dev.to/kiolk/day-68-70-theme-switcher-265k)
 - [Day 67. Follow as in the System](https://dev.to/kiolk/day-67-follow-as-in-the-system-35il)
 - [Day 66. Theme switcher](https://dev.to/kiolk/day-66-theme-switcher-4088)
-- [Days 61-65. Dark theme](https://dev.to/kiolk/days-61-65-dark-5e01)
 <!-- BLOG-POST-LIST:END -->
 
