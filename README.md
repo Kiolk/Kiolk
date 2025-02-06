@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Developer diary #26. Remote Test Lab](https://dev.to/kiolk/developer-diary-26-remote-test-lab-khd)
 - [Developer diary #25. Communication](https://dev.to/kiolk/developer-diary-25-communication-m1c)
 - [Developer diary #24. Refactoring](https://dev.to/kiolk/developer-diary-24-refactoring-2d60)
 - [Developer diary #23. Chip War](https://dev.to/kiolk/developer-diary-23-chip-war-49lk)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Day 73. Working on the Library](https://dev.to/kiolk/day-73-working-on-the-library-3jea)
 - [Day 71-72. Lack of knowledge](https://dev.to/kiolk/day-71-72-lack-of-knowledge-22f)
 - [Day 68-70. Theme switcher](https://dev.to/kiolk/day-68-70-theme-switcher-265k)
-- [Day 67. Follow as in the System](https://dev.to/kiolk/day-67-follow-as-in-the-system-35il)
 <!-- BLOG-POST-LIST:END -->
 
