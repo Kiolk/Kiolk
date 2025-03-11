@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Developer Diary #28. Wonder AI](https://dev.to/kiolk/developer-diary-28-wonder-ai-2i95)
 - [Developer Diary #27. AI Trap](https://dev.to/kiolk/developer-diary-27-ai-trap-162j)
 - [Developer diary #26. Remote Test Lab](https://dev.to/kiolk/developer-diary-26-remote-test-lab-khd)
 - [Developer diary #25. Communication](https://dev.to/kiolk/developer-diary-25-communication-m1c)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [SwiftUI Previews don&#39;t Work for Kotlin Multiplatform Mobile &lpar;KMM&rpar; Projects.](https://dev.to/kiolk/swiftui-previews-dont-work-for-kotlin-multiplatform-mobile-kmm-projects-3o1)
 - [Day 74. The end](https://dev.to/kiolk/day-74-the-end-2ge1)
 - [Day 73. Working on the Library](https://dev.to/kiolk/day-73-working-on-the-library-3jea)
-- [Day 71-72. Lack of knowledge](https://dev.to/kiolk/day-71-72-lack-of-knowledge-22f)
 <!-- BLOG-POST-LIST:END -->
 
