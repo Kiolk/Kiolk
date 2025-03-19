@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Developer Diary #29. Time for Change](https://dev.to/kiolk/developer-diary-29-time-for-change-21ck)
 - [Developer Diary #28. Wonder AI](https://dev.to/kiolk/developer-diary-28-wonder-ai-2i95)
 - [Developer Diary #27. AI Trap](https://dev.to/kiolk/developer-diary-27-ai-trap-162j)
 - [Developer diary #26. Remote Test Lab](https://dev.to/kiolk/developer-diary-26-remote-test-lab-khd)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [How to Handle the &quot;More&quot; Feature on Android?](https://dev.to/kiolk/how-to-handle-the-more-feature-on-android-2o6k)
 - [SwiftUI Previews don&#39;t Work for Kotlin Multiplatform Mobile &lpar;KMM&rpar; Projects.](https://dev.to/kiolk/swiftui-previews-dont-work-for-kotlin-multiplatform-mobile-kmm-projects-3o1)
 - [Day 74. The end](https://dev.to/kiolk/day-74-the-end-2ge1)
-- [Day 73. Working on the Library](https://dev.to/kiolk/day-73-working-on-the-library-3jea)
 <!-- BLOG-POST-LIST:END -->
 
