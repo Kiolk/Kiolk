@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Developer Diary #32. HONY](https://dev.to/kiolk/developer-diary-32-hony-56n8)
 - [Developer Diary #31. Prompting an Android Application](https://dev.to/kiolk/developer-diary-31-prompting-an-android-application-3mdl)
 - [Developer Diary #30. Training Skills in Using AI Tools](https://dev.to/kiolk/developer-diary-30-training-skills-in-using-ai-tools-1gid)
 - [Developer Diary #29. Time for Change](https://dev.to/kiolk/developer-diary-29-time-for-change-21ck)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Developer diary #23. Chip War](https://dev.to/kiolk/developer-diary-23-chip-war-49lk)
 - [My conference year](https://dev.to/kiolk/my-conference-year-onk)
 - [Tests with time](https://dev.to/kiolk/tests-with-time-41np)
-- [How to Handle the &quot;More&quot; Feature on Android?](https://dev.to/kiolk/how-to-handle-the-more-feature-on-android-2o6k)
 <!-- BLOG-POST-LIST:END -->
 
