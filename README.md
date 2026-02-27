@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Small Thing, Big Impact](https://dev.to/kiolk/small-thing-big-impact-ol7)
 - [Developer Diary #33. Limitations](https://dev.to/kiolk/developer-diary-33-limitations-4105)
 - [Developer Diary #32. HONY](https://dev.to/kiolk/developer-diary-32-hony-56n8)
 - [Developer Diary #31. Prompting an Android Application](https://dev.to/kiolk/developer-diary-31-prompting-an-android-application-3mdl)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 - [Developer diary #25. Communication](https://dev.to/kiolk/developer-diary-25-communication-m1c)
 - [Developer diary #24. Refactoring](https://dev.to/kiolk/developer-diary-24-refactoring-2d60)
 - [Developer diary #23. Chip War](https://dev.to/kiolk/developer-diary-23-chip-war-49lk)
-- [My conference year](https://dev.to/kiolk/my-conference-year-onk)
 <!-- BLOG-POST-LIST:END -->
 
